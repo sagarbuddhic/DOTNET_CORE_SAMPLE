@@ -1,0 +1,11 @@
+/home/sagar/Personal Source/DOTNET_CORE/bin/Debug/netcoreapp2.2/DOTNET_CORE.deps.json
+/home/sagar/Personal Source/DOTNET_CORE/bin/Debug/netcoreapp2.2/DOTNET_CORE.runtimeconfig.json
+/home/sagar/Personal Source/DOTNET_CORE/bin/Debug/netcoreapp2.2/DOTNET_CORE.runtimeconfig.dev.json
+/home/sagar/Personal Source/DOTNET_CORE/bin/Debug/netcoreapp2.2/DOTNET_CORE.dll
+/home/sagar/Personal Source/DOTNET_CORE/bin/Debug/netcoreapp2.2/DOTNET_CORE.pdb
+/home/sagar/Personal Source/DOTNET_CORE/obj/Debug/netcoreapp2.2/DOTNET_CORE.csprojAssemblyReference.cache
+/home/sagar/Personal Source/DOTNET_CORE/obj/Debug/netcoreapp2.2/DOTNET_CORE.csproj.CoreCompileInputs.cache
+/home/sagar/Personal Source/DOTNET_CORE/obj/Debug/netcoreapp2.2/DOTNET_CORE.AssemblyInfoInputs.cache
+/home/sagar/Personal Source/DOTNET_CORE/obj/Debug/netcoreapp2.2/DOTNET_CORE.AssemblyInfo.cs
+/home/sagar/Personal Source/DOTNET_CORE/obj/Debug/netcoreapp2.2/DOTNET_CORE.dll
+/home/sagar/Personal Source/DOTNET_CORE/obj/Debug/netcoreapp2.2/DOTNET_CORE.pdb
